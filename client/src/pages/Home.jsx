@@ -97,7 +97,7 @@ const Home = () => {
 			<Content style={{ padding: "20px", overflowY: "auto" }}>
 				<div>
 					<div style={{ margin: "0 auto", maxWidth: "720px" }}>
-						<div style={{ display: "flex", justifyContent: "flex-start" }}>
+						<div style={{ display: "flex", justifyContent: "center" }}>
 							<HeaderMessage />
 						</div>
 						{messages.map((msg, index) => (
