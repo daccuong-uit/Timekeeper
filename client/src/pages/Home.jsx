@@ -69,7 +69,7 @@ const Home = () => {
 						fontWeight: "bold",
 					}}
 				>
-					Sentiment Analysis
+					CS313 - Khai thác dữ liệu và ứng dụng
 				</h1>
 				<button
 					style={{
