@@ -17,7 +17,7 @@ const HeaderMessage = () => {
 			}}
 		>
 			<div
-				style={{ display: "flex", alignItems: "center", marginBottom: "15px" }}
+				style={{ display: "flex", alignItems: "center", marginBottom: "15px", justifyContent: "center" }}
 			>
 				<img
 					src={brain}
